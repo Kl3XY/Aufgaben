@@ -2,6 +2,7 @@
 Moin hier sind meine Lernunterlagen für die Abschlussprüfung 2025.
 Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 
+Über git bricht die Übersicht. Bitte lädt euch Obisidan runter
 ## Prüfungsordnungsthemen
 #### Teil 1
 - [x] T1 - 01
