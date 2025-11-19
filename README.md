@@ -10,13 +10,11 @@ Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 - [x] T1 - 04
 
 #### Teil 2
-- [ ] T2 - 01
+- [ ] T2 - 01 (~23%)
 - [ ] T2 - 02
 - [ ] T2 - 03
 - [ ] T2 - 04
 - [ ] T2 - 05
-- [ ] T2 - 06
-- [ ] T2 - 07
 (oh lord so helfe mir jesus christ)
 
 ## Einige  Klausuren bin ich auch durchgegangen
