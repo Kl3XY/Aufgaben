@@ -7,7 +7,7 @@ Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 - [x] T1 - 01
 - [x] T1 - 02
 - [x] T1 - 03
-- [ ] T1 - 04
+- [x] T1 - 04
 
 #### Teil 2
 - [ ] T2 - 01
@@ -19,4 +19,7 @@ Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 - [ ] T2 - 07
 (oh lord so helfe mir jesus christ)
 
-
+## Einige  Klausuren bin ich auch durchgegangen
+- Teil 1 "2022 Winter"
+- Teil 1 "2021-22 Winter"
+- Teil 1 "2020-21 Winter"
