@@ -2,5 +2,5 @@
 [[AP2 übung/Teil1/01-02]]
 [[AP2 übung/Teil1/01-03]]
 [[AP2 übung/Teil1/02-01]]
-[[02-02]]
+[[AP2 übung/Teil1/02-02]]
 [[02-03]]
