@@ -11,7 +11,7 @@ Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 - [x] T1 - 04
 
 #### Teil 2
-- [ ] T2 - 01 (~23%)
+- [x] T2 - 01 
 - [ ] T2 - 02
 - [ ] T2 - 03
 - [ ] T2 - 04
