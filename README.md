@@ -13,7 +13,7 @@ Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 #### Teil 2
 - [x] T2 - 01 
 - [x] T2 - 02 (would need a second looker)
-- [ ] T2 - 03
+- [x] T2 - 03
 - [ ] T2 - 04
 - [ ] T2 - 05
 (oh lord so helfe mir jesus christ)
