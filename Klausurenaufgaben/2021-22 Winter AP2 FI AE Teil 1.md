@@ -51,7 +51,7 @@ Audioerklärung
 Einfache Sprache
 
 ## UML-Klassendiagramm
-ist unter [[AP2 übung/Teil1/02-02]] erklärt worden
+ist unter [[AP2 übung/Teil1/02/02-02]] erklärt worden
 ## HTTP Errors
 #### 404
 Der Angegebene URL oder Pfad innnerhalb eine Domain wurde nicht gefunden
