@@ -23,7 +23,6 @@ Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 - [ ] 03
 - [ ] 04
 - [ ] 05
-(oh lord so helfe mir jesus christ)
 
 ## Einige  Klausuren bin ich auch durchgegangen
 - Teil 1 "2022 Winter"
