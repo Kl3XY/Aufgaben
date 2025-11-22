@@ -51,6 +51,13 @@ Einfach für den Nutzer
 Nachteil:
 Wird dein Account gebreached, verlierst du recht viel an mist.
 
+## Webanwendungsschichten
+#### Darstellungsschicht
+Diese schicht ist für die Darstellung des Programmes zuständig
+#### Logikschicht
+Die Logikschicht beeinhaltet die Geschäftslogik des Programms
+#### Datenschicht
+Die Datenbank und so.
 ## MVC
 
 #### View
