@@ -14,7 +14,7 @@ Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 - [x] T2 - 01 
 - [x] T2 - 02 (would need a second looker)
 - [x] T2 - 03
-- [ ] T2 - 04
+- [x] T2 - 04
 - [ ] T2 - 05
 (oh lord so helfe mir jesus christ)
 
