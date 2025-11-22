@@ -16,6 +16,13 @@ Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 - [x] T2 - 03
 - [x] T2 - 04
 - [x] T2 - 05
+
+## Wipo
+- [ ] 01
+- [ ] 02
+- [ ] 03
+- [ ] 04
+- [ ] 05
 (oh lord so helfe mir jesus christ)
 
 ## Einige  Klausuren bin ich auch durchgegangen
