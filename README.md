@@ -19,10 +19,10 @@ Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 
 ## Wipo
 - [x] 01
-- [ ] 02
-- [ ] 03
-- [ ] 04
-- [ ] 05
+- [x] 02
+- [x] 03
+- [x] 04
+- [x] 05
 
 ## Einige  Klausuren bin ich auch durchgegangen
 - Teil 1 "2022 Winter"
