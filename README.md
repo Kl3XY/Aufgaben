@@ -18,7 +18,7 @@ Angaben sind ohne gewähr also bitte auch andere quellen beziehen.
 - [x] T2 - 05
 
 ## Wipo
-- [ ] 01
+- [x] 01
 - [ ] 02
 - [ ] 03
 - [ ] 04
